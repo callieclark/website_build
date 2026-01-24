@@ -1,0 +1,105 @@
+---
+title: ""
+output:
+  html_document:
+    toc: false
+    theme: null
+    includes:
+      in_header: includes/header.html
+    css:
+      - styles.css
+      - "https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+---
+
+
+
+```{=html}
+<div class="main-wrapper">
+  <div class="content-wrapper">
+
+    <section style="text-align: center; margin: 60px 0 40px 0;">
+  <h1 style="font-size: 5rem; font-weight: 700; margin-bottom: 20px;">Research</h1>
+  <p style="font-size: 1.5rem; color: #555; max-width: 800px; margin: 0 auto;">
+
+    <!-- Research Overview Blurb -->
+    <section class="hero-layout" style="margin-bottom: 3rem;">
+      <div class="hero-text">
+        <p style="font-size: 1.25rem; line-height: 1.7; color: #333;">
+          This research explores urban mobility, infrastructure access, and the design of equitable transportation systems. 
+          My work combines observational and experimental methods to understand how the built environment and emerging technologies 
+          shape human behavior, accessibility, and safety in cities. Current projects focus on emergency food access, mobility equity, 
+          electric vehicle adoption, and hybrid work environments.
+        </p>
+      </div>
+    </section>
+
+<!-- Emergency Food Access Project -->
+<section class="project-section" style="display: flex; align-items: flex-start; gap: 30px; padding: 40px 0;">
+  <!-- Image: left 1/4 -->
+  <div style="flex: 0 0 25%; text-align: center;">
+    <img src="images/EFAI_proj_image.jpg" alt="Emergency Food Access" 
+         style="width: 275px; height: 275px; object-fit: cover; border-radius: 8px;">
+  </div>
+  
+  <!-- Text: right 3/4 -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 15px;">Emergency Food Access</h3>
+    <p><strong>Abstract:</strong> This project evaluates food accessibility in urban neighborhoods, combining observational data with mobility traces to identify gaps in emergency food provision and the populations most affected. The goal is to create a multi-dimensional index of access that informs both policy and intervention design.</p>
+  </div>
+</section>
+
+<!-- Delineation line -->
+<div style="width: 60%; margin: 0 auto; border-bottom: 1px solid #d3d3d3; margin-bottom: 40px;"></div>
+
+<!-- Neighborhood Connectivity Project -->
+<section class="project-section" style="display: flex; align-items: flex-start; gap: 30px; padding: 40px 0;">
+  <div style="flex: 0 0 25%; text-align: center;">
+    <img src="images/EFAI_proj_image.jpg" alt="Neighborhood Connectivity" 
+         style="width: 275px; height: 275px; object-fit: cover; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 15px;">Neighborhood Connectivity</h3>
+    <p><strong>Abstract:</strong> This project examines mobility patterns across urban neighborhoods, using spatial network analysis to understand access to services, infrastructure gaps, and how residents navigate daily trips. The aim is to identify connectivity barriers and inform urban planning interventions.</p>
+  </div>
+</section>
+
+<div style="width: 60%; margin: 0 auto; border-bottom: 1px solid #d3d3d3; margin-bottom: 40px;"></div>
+
+<!-- Community-Centric EV Charging Project -->
+<section class="project-section" style="display: flex; align-items: flex-start; gap: 30px; padding: 40px 0;">
+  <div style="flex: 0 0 25%; text-align: center;">
+    <img src="images/EFAI_proj_image.jpg" alt="Community-Centric EV Charging" 
+         style="width: 275px; height: 275px; object-fit: cover; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 15px;">Community-Centric EV Charging</h3>
+    <p><strong>Abstract:</strong> This project focuses on equitable deployment of electric vehicle charging stations, assessing access and adoption patterns across neighborhoods. It combines geospatial analysis with demographic data to identify priority areas and guide infrastructure planning.</p>
+  </div>
+</section>
+
+<div style="width: 60%; margin: 0 auto; border-bottom: 1px solid #d3d3d3; margin-bottom: 40px;"></div>
+
+<!-- Hybrid Work Project -->
+<section class="project-section" style="display: flex; align-items: flex-start; gap: 30px; padding: 40px 0;">
+  <div style="flex: 0 0 25%; text-align: center;">
+    <img src="images/EFAI_proj_image.jpg" alt="Hybrid Work" 
+         style="width: 275px; height: 275px; object-fit: cover; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 15px;">Hybrid Work</h3>
+    <p><strong>Abstract:</strong> This project investigates how self-driving vehicles could transform work during commuting, including mobile office setups and productivity impacts. It evaluates human-automation interactions and the implications for workplace flexibility and urban mobility planning.</p>
+  </div>
+</section>
+
+
+    <!-- Publications -->
+    <section class="lab-section" style="padding-top: 40px; padding-bottom: 60px;">
+      <h2 style="text-align: center; font-size: 2em; margin-bottom: 30px; color: #333;">Publications</h2>
+      <div class="project-section" style="color: #444; font-size: 1.1rem; line-height: 1.7; text-align: left; max-width: 800px; margin: 0 auto;">
+        Clark, Callie, Christa Perfit, and Alice Reznickova. "A multi-dimensional access index: Exploring emergency food assistance in New York City." <em>Health & Place</em> 89 (2024): 103319.
+      </div>
+    </section>
+
+```
+
+
