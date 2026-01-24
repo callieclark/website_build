@@ -32,14 +32,14 @@ output:
       <!-- Blurb -->
       <div class="hero-text">
         <p>
-          Callie is an Urban Systems Ph.D. Candidate at the 
+          Callie is an Urban Systems Ph.D. Candidate at New York University’s
+          Tandon School of Engineering  in the Civil & Urban Engineering Department. She is a Research Fellow at both the 
           <a href="https://engineering.nyu.edu/research/centers/cusp/">
             Center for Urban Data Science + Progress
           </a> 
           and the 
           <a href="https://marroninstitute.nyu.edu/">Marron Institute</a>
-          in the Civil & Urban Engineering Department at New York University’s
-          Tandon School of Engineering in Downtown Brooklyn, NY.
+         
         </p>
 
         <p>

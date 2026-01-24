@@ -25,10 +25,7 @@ output:
     <section class="hero-layout" style="margin-bottom: 3rem;">
       <div class="hero-text">
         <p style="font-size: 1.25rem; line-height: 1.7; color: #333;">
-          This research explores urban mobility, infrastructure access, and the design of equitable transportation systems. 
-          My work combines observational and experimental methods to understand how the built environment and emerging technologies 
-          shape human behavior, accessibility, and safety in cities. Current projects focus on emergency food access, mobility equity, 
-          electric vehicle adoption, and hybrid work environments.
+          This research explores...[placeholder]
         </p>
       </div>
     </section>
@@ -44,7 +41,7 @@ output:
   <!-- Text: right 3/4 -->
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 15px;">Emergency Food Access</h3>
-    <p><strong>Abstract:</strong> This project evaluates food accessibility in urban neighborhoods, combining observational data with mobility traces to identify gaps in emergency food provision and the populations most affected. The goal is to create a multi-dimensional index of access that informs both policy and intervention design.</p>
+    <p> This project evaluates emergency food access in New York City from a multi-dimensional perspective. We simulate travel time to the closest food pantry throughout the week and across four different modes of transportation.  We partner with City Harvest to incorporate the varied operating hours of each pantry, and then consider the underlying urban transit infrastructure by simulating travel time for walking, biking, driving and public transit. We then propose a framework to construct an Emergency Food Access Index (EFAI), and identify the gaps in service through evaluating areas with high need and low access.
   </div>
 </section>
 
@@ -59,7 +56,7 @@ output:
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 15px;">Neighborhood Connectivity</h3>
-    <p><strong>Abstract:</strong> This project examines mobility patterns across urban neighborhoods, using spatial network analysis to understand access to services, infrastructure gaps, and how residents navigate daily trips. The aim is to identify connectivity barriers and inform urban planning interventions.</p>
+    <p> [placeholder].</p>
   </div>
 </section>
 
@@ -73,7 +70,7 @@ output:
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 15px;">Community-Centric EV Charging</h3>
-    <p><strong>Abstract:</strong> This project focuses on equitable deployment of electric vehicle charging stations, assessing access and adoption patterns across neighborhoods. It combines geospatial analysis with demographic data to identify priority areas and guide infrastructure planning.</p>
+    <p> [placeholder].</p>
   </div>
 </section>
 
@@ -87,7 +84,7 @@ output:
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 15px;">Hybrid Work</h3>
-    <p><strong>Abstract:</strong> This project investigates how self-driving vehicles could transform work during commuting, including mobile office setups and productivity impacts. It evaluates human-automation interactions and the implications for workplace flexibility and urban mobility planning.</p>
+    <p> [placeholder].</p>
   </div>
 </section>
 
@@ -96,7 +93,7 @@ output:
     <section class="lab-section" style="padding-top: 40px; padding-bottom: 60px;">
       <h2 style="text-align: center; font-size: 2em; margin-bottom: 30px; color: #333;">Publications</h2>
       <div class="project-section" style="color: #444; font-size: 1.1rem; line-height: 1.7; text-align: left; max-width: 800px; margin: 0 auto;">
-        Clark, Callie, Christa Perfit, and Alice Reznickova. "A multi-dimensional access index: Exploring emergency food assistance in New York City." <em>Health & Place</em> 89 (2024): 103319.
+        <strong>Clark, Callie</strong>, Christa Perfit, and Alice Reznickova. "A multi-dimensional access index: Exploring emergency food assistance in New York City."  <a href="https://doi.org/10.1016/j.healthplace.2024.103319"> <em>Health & Place</em> </a> 89 (2024): 103319.
       </div>
     </section>
 
