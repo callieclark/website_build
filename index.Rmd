@@ -38,15 +38,23 @@ output:
             Center for Urban Data Science + Progress
           </a> 
           and the 
-          <a href="https://marroninstitute.nyu.edu/">Marron Institute</a>
+          <a href="https://marroninstitute.nyu.edu/">Marron Institute</a>. Callie is co-advised by Dr. Constantine Kontokosta at the 
+          <a href="https://www.urbanintelligencelab.org/">Urban Intelligence Lab</a> 
+          and Dr. Takahiro Yabe at the 
+          <a href="https://www.takayabe.net/">Resilient Urban Networks Lab</a>. She is also a National Science Foundation (NSF) 2020  
+          Graduate Research Fellow.
+          
          
         </p>
 
         <p>
-          She is co-advised by Dr. Constantine Kontokosta at the 
-          <a href="https://www.urbanintelligencelab.org/">Urban Intelligence Lab</a> 
-          and Dr. Takahiro Yabe at the 
-          <a href="https://www.takayabe.net/">Resilient Urban Networks Lab</a>.
+
+
+          Callie earned an Masters of Science in Systems Engineering  
+          and a Bachelors in Civil and Environmental Engineering from UC Berkeley. Prior to graduate school, she worked as a data   
+          analyst at Lawrence Berkeley National Laboratory in the Building Technology and Urban Systems Division.
+
+          
         </p>
       </div>
 
@@ -57,27 +65,23 @@ output:
 
       <div class="intro-box">
         <p>
-          Callie’s research examines <strong>segregation in activity spaces</strong> 
+          Callie’s research examines <strong> segregation in activity spaces</strong> 
           and <strong>neighborhood dynamics</strong>, with a focus on how access to 
-          public infrastructure shapes the diversity of social interactions. She has 
-          an ongoing project evaluating <strong>Emergency Food Access in New York City</strong> 
-          using a multi-dimensional framework in collaboration with partners at City Harvest 
-          and the University of Colorado Boulder.
+          public infrastructure shapes the diversity of social interactions. She approaches her research from a <strong>complex systems
+          perspective</strong>, using <strong>network science</strong> and <strong>mobility data</strong>, overlaid with the <strong>physical urban infrastructure</strong> to gain 
+          insight on how the built environment, like transit, public spaces, EV charging stations, and emergency food access, impacts the social environment, with the overarching goal to create better informed government policy 
+          and urban design.
+
         </p>
 
-        <p>
-          Callie earned an M.S. in Systems Engineering and a B.S. in Civil and Environmental 
-          Engineering from UC Berkeley. Prior to graduate school, she worked as a data analyst 
-          at Lawrence Berkeley National Laboratory in the Building Technology and Urban Systems 
-          Division.
-        </p>
+        
       </div>
 
       <!-- Keywords -->
       <div class="keywords">
         <strong>Keywords:</strong>
-        activity spaces, spatial segregation, neighborhood dynamics, public infrastructure,
-        urban mobility, accessibility, social interaction, food systems, spatial data science,
+         spatial segregation, neighborhood dynamics, public infrastructure, activity spaces,
+        urban mobility, accessibility, social capital, food systems, network science
         complex systems
       </div>
 
