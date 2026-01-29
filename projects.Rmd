@@ -18,7 +18,7 @@ output:
 <style>
   .section-divider {
     width: 60%;
-    margin: 40px auto;
+    margin: 20px auto;
     border: none;
     border-top: 1px solid #d3d3d3;
   }
@@ -27,7 +27,7 @@ output:
 <div class="main-wrapper">
   <div class="content-wrapper">
 
-<section style="text-align: center; margin: 60px 0 40px 0;">
+<section style="text-align: center; margin: 60px 0 20px 0;">
   <h1 style="font-size: 4.5rem; font-weight: 700; margin-bottom: 0;">
     Research
   </h1>
@@ -39,7 +39,7 @@ output:
     <hr class="section-divider">
 
     <!-- Neighborhood Connectivity -->
-    <section class="project-section" style="display: flex; gap: 30px; padding: 40px 0;">
+    <section class="project-section" style="display: flex; gap: 30px; padding: 20px 0;">
       <div style="flex: 0 0 25%; text-align: center;">
         <img src="images/neighborhood_connectivity.jpg" alt="Neighborhood Connectivity"
              style="width: 275px; height: 275px; object-fit: contain; border-radius: 8px;">
@@ -50,14 +50,14 @@ output:
         <div style="color: #555; font-size: 0.9em; margin-bottom: 15px;">
           <strong>Collaborators:</strong> Bartosz Bonczak; Lance Freeman; Constantine Kontokosta
         </div>
-        <p> We use large-scale mobility data at the Census Block Group (CBG) level to construct neighborhood connectivity networks for 74 MSAs across the U.S. We then use the network structure to propose a new neighborhood typology. Then we pull in a variety of other data, including: demographic data , Point of Interest (POI) locations, LEHD data, to explore the relationship between the network structure and the neighborhood characteristics.  This project is apart of a larger  <a href=https://marroninstitute.nyu.edu/blog/constantine-kontokosta-awarded-nsf-grant-to-examine-interconnectedness-of-residents-from-varied-neighborhoods> NSF project</a>.   </p>
+        <p>Neighborhoods are often characterized by residential demographics, density, or the distribution of Points of Interest (POIs), yet patterns of mobility—where residents travel and who visits a neighborhood—also play a central role in shaping neighborhood character. This work leverages large-scale mobility data at the Census Block Group (CBG) level to construct neighborhood connectivity networks across 74 Metropolitan Statistical Areas (MSAs) in the United States. Using the resulting network structure, we propose a new data-driven neighborhood typology. We then integrate additional data sources—including demographic characteristics, Point of Interest (POI) locations, and LEHD employment data—to examine how neighborhood connectivity relates to underlying social, economic, and spatial characteristics.This project is apart of a larger  <a href=https://marroninstitute.nyu.edu/blog/constantine-kontokosta-awarded-nsf-grant-to-examine-interconnectedness-of-residents-from-varied-neighborhoods> NSF project</a>.   </p>
       </div>
     </section>
 
     <hr class="section-divider">
 
     <!-- Community-Centric EV Charging -->
-    <section class="project-section" style="display: flex; gap: 30px; padding: 40px 0;">
+    <section class="project-section" style="display: flex; gap: 30px; padding: 20px 0;">
       <div style="flex: 0 0 25%; text-align: center;">
         <img src="images/EV_gas.png" alt="Community-Centric EV Charging"
              style="width: 275px; height: 275px; object-fit: contain; border-radius: 8px;">
@@ -87,7 +87,7 @@ output:
     <hr class="section-divider">
 
     <!-- Hybrid Work -->
-    <section class="project-section" style="display: flex; gap: 30px; padding: 40px 0;">
+    <section class="project-section" style="display: flex; gap: 30px; padding: 20px 0;">
       <div style="flex: 0 0 25%; text-align: center;">
         <img src="images/Hybrid_Work.png" alt="Hybrid Work"
              style="width: 275px; height: 275px; object-fit: contain; border-radius: 8px;">
@@ -104,7 +104,7 @@ output:
           place) and the workplace (the second place) that support everyday social interactions.  However, the COVID-19 pandemic
           significantly increased the adoption of remote and hybrid work in certain industries, altering the long-established
           relationship between the first (home) and second (work) place. In this study, we aim to understand how the long-term shift 
-          to hybrid work culture has impacted the the use of third places in cities. In this study, we leverage
+          to hybrid work culture has impacted the the use of third places in cities. We leverage
           anonymized, high-resolution mobile phone location data for 3 months in 2019 and June 2022 across eight major U.S.Metropolitan
           Statistical Areas (MSAs) to identify individual hybrid work behaviors and visits to third places. 
 
@@ -116,7 +116,7 @@ output:
     <hr class="section-divider">
 
     <!-- Emergency Food Access -->
-    <section class="project-section" style="display: flex; gap: 30px; padding: 40px 0;">
+    <section class="project-section" style="display: flex; gap: 30px; padding: 20px 0;">
       <div style="flex: 0 0 25%; text-align: center;">
         <img src="images/EFAI_proj_image.jpg" alt="Emergency Food Access"
              style="width: 275px; height: 275px; object-fit: contain; border-radius: 8px;">
@@ -131,7 +131,7 @@ output:
           <strong>Collaborators:</strong> Christa Perfit; Alice Reznickova
         </div>
         <p>
-          We evaluate Emergency Food Access in New York City using a multi-dimensional framework in collaboration with partners at City Harvest and the University of Colorado Boulder. We simulate travel time to the closest food pantry throughout the week and across four different modes of transportation. We partner with City Harvest to incorporate the varied operating hours of each pantry, and then consider the underlying urban transit infrastructure by simulating travel time for walking, biking, driving and public transit. We then propose a framework to construct an Emergency Food Access Index (EFAI), and identify gaps in service by evaluating areas with high need and low access.
+         Emergency food access is a critical component of urban resilience and public health, yet significant spatial and temporal disparities persist. This work evaluates emergency food access in New York City using a multi-dimensional framework developed in collaboration with partners at City Harvest and the University of Colorado Boulder. We simulate travel times to the nearest food pantry throughout the week across four modes of transportation—walking, biking, driving, and public transit—while incorporating pantry-specific operating hours and the underlying urban transit infrastructure. Building on these measures, we propose an Emergency Food Access Index (EFAI) to systematically identify gaps in service by highlighting areas characterized by high need and low access.
         </p>
       </div>
     </section>
@@ -139,7 +139,7 @@ output:
     <hr class="section-divider">
 
     <!-- Police Response Time -->
-    <section class="project-section" style="display: flex; gap: 30px; padding: 40px 0;">
+    <section class="project-section" style="display: flex; gap: 30px; padding: 20px 0;">
       <div style="flex: 0 0 25%; text-align: center;">
         <img src="images/RT_website_image.png" alt="Police Response Time"
              style="width: 275px; height: 275px; object-fit: contain; border-radius: 8px;">
@@ -154,7 +154,7 @@ output:
           <strong>Collaborators:</strong> Chitra Dangwal; Dylan Kato; Marta Gonzalez
         </div>
         <p>
-          In light of recent events, there has been a surge in discussions of defunding police. On one hand, policy that reduces police presence aims to reduce frequency of police violence. On the other hand, downsizing the police force triggers concerns of public safety and police response time. In this work, we use spatial analysis to examine the impact a reduced police force may have on response time. Modeling the transportation system of Chicago as a network, we simulate the response of police officers from stations to incidents. We then use this simulation to calculate the impacts of resource re-allocation from police to alternate responders. Using Chicago’s large, open-source police incident response database we use our simulation to predict how the response time changes subject to various crime and policing scenarios. Our model suggests the current response time distribution can be maintained with a 30-60% reduction in police staffing levels, if some incidents are re-allocated to alternate responders.
+          Police response time is a central dimension of public safety and a key consideration in debates over alternative emergency response models. This work uses spatial network analysis to examine how reductions in police staffing may affect response times in urban settings. Modeling Chicago’s transportation system as a network, we simulate police responses from stations to incident locations and evaluate the effects of reallocating certain incident types to alternative responders. Using Chicago’s large, open-source police incident response dataset, we assess how response times change under a range of staffing and incident-allocation scenarios. Our results suggest that the current response time distribution can be maintained with a 30–60% reduction in police staffing levels, provided that some incidents are redirected to non-police responders.
         </p>
       </div>
     </section>
@@ -167,7 +167,7 @@ output:
 
 </section>
 
-<!-- Delineation line --> <!-- Publications --> <section class="lab-section" style="padding-top: 40px; padding-bottom: 60px;"> <h2 style="text-align: center; font-size: 2em; margin-bottom: 30px; color: #333;"> Publications </h2> <div style="color: #444; font-size: 1.1rem; line-height: 1.7; text-align: left; max-width: 800px; margin: 0 auto;"> <div style="margin-bottom: 18px;"> De Silva, Mavin M., <strong>Callie Clark</strong>, Tadachika Nakayama, and Takahiro Yabe. “Causal spillover effects of electric vehicle charging station placement on local businesses: A staggered adoption study.” <a href="https://arxiv.org/abs/2511.19507"> <em>arXiv</em> </a> (2025). </div> <div style="margin-bottom: 18px;"> <strong>Clark, Callie</strong>, Christa Perfit, and Alice Reznickova. “A multi-dimensional access index: Exploring emergency food assistance in New York City.” <a href="https://doi.org/10.1016/j.healthplace.2024.103319"> <em>Health &amp; Place</em> </a> 89 (2024): 103319. </div> <div style="margin-bottom: 18px;"> <strong>Clark, Callie</strong>, Chhavi Dangwal, Daisuke Kato, and others. “A network spatial analysis simulating response time to calls for service at variable staffing levels.” <a href="https://link.springer.com/article/10.1140/epjs/s11734-021-00344-1"> <em>European Physical Journal Special Topics</em> </a> 231 (2022): 1645–1653. </div> </div>
+<!-- Delineation line --> <!-- Publications --> <section class="lab-section" style="padding-top: 20px; padding-bottom: 60px;"> <h2 style="text-align: center; font-size: 2em; margin-bottom: 30px; color: #333;"> Publications </h2> <div style="color: #444; font-size: 1.1rem; line-height: 1.7; text-align: left; max-width: 800px; margin: 0 auto;"> <div style="margin-bottom: 18px;"> De Silva, Mavin M., <strong>Callie Clark</strong>, Tadachika Nakayama, and Takahiro Yabe. “Causal spillover effects of electric vehicle charging station placement on local businesses: A staggered adoption study.” <a href="https://arxiv.org/abs/2511.19507"> <em>arXiv</em> </a> (2025). </div> <div style="margin-bottom: 18px;"> <strong>Clark, Callie</strong>, Christa Perfit, and Alice Reznickova. “A multi-dimensional access index: Exploring emergency food assistance in New York City.” <a href="https://doi.org/10.1016/j.healthplace.2024.103319"> <em>Health &amp; Place</em> </a> 89 (2024): 103319. </div> <div style="margin-bottom: 18px;"> <strong>Clark, Callie</strong>, Chhavi Dangwal, Daisuke Kato, and others. “A network spatial analysis simulating response time to calls for service at variable staffing levels.” <a href="https://link.springer.com/article/10.1140/epjs/s11734-021-00344-1"> <em>European Physical Journal Special Topics</em> </a> 231 (2022): 1645–1653. </div> </div>
 
 ```
 
